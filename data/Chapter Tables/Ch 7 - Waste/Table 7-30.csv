@@ -1,0 +1,14 @@
+Table 7-30:  Variables and Data Sources for Non-Consumed Protein and Nitrogen Entering Centralized Systems,,,
+,,,
+Variable,Variable Description,Units,Inventory Years: Source of Value
+USPOP,U.S. populationa,Persons,1990-2020: U.S. Census Bureau (2021)
+TCENTRALIZED,Percent collecteda,%,Odd years from 1989 through 2019: U.S. Census Bureau (2019)
+,,,Data for intervening years obtained by linear interpolation
+,,,2020: Forecasted from the rest of the time series
+Protein,Consumed protein per capitaa,kg/person/year,1990-2020: Calculated
+FNPR,Fraction of nitrogen in protein (0.16),kg N/kg protein,1990-2020: IPCC (2019)
+NHH,Factor for additional nitrogen from household products (1.17),No units,1990-2020: IPCC (2019)
+FNON-CON,Factor for U.S. specific non-consumed protein (1.13),No units,
+FIND-COM,Factor for Industrial and Commercial Co-Discharged Protein (1.25),No units,
+,,,
+a Value of this activity data varies over the Inventory time series.,,,

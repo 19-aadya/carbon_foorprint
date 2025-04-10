@@ -1,0 +1,9 @@
+"Table 4-99:  Approach 2 Quantitative Uncertainty Estimates for HFC, PFC, SF6, NF3 and N2O Emissions from Electronics Manufacture (MMT CO2 Eq. and Percent)",,,,,,,
+,,,,,,,
+,Source,Gas,2020 Emission Estimate,Uncertainty Range Relative to Emission Estimatea,,,
+,,,(MMT CO2 Eq.),(MMT CO2 Eq.),,(%),
+,,,,Lower,Upper,Lower,Upper
+,,,,Boundb,Boundb,Bound,Bound
+,Electronics Industry,"HFC, PFC, SF6, NF3, and N2O",4.74,4.45,5.03,-6%,6%
+,a Range of emission estimates predicted by Monte Carlo Stochastic Simulation for a 95 percent confidence interval.,,,,,,
+,b Absolute lower and upper bounds were calculated using the corresponding lower and upper bounds in percentages.,,,,,,

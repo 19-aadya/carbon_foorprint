@@ -1,0 +1,80 @@
+Table 1-4: Key Categories for the United States (1990 and 2020),,,,,,,,,,
+CRF Source/Sink Categories,Gas,Approach 1,,,,Approach 2 (includes uncertainty) ,,,,2020 Emissions (MMT CO2 Eq.)
+,,Level Without LULUCF,Trend Without LULUCF,Level With LULUCF,Trend With LULUCF,Level Without LULUCF,Trend Without LULUCF,Level With LULUCF,Trend With LULUCF,
+Energy,,,,,,,,,,
+CO2 Emissions from Mobile Combustion: Road,CO2,•,•,•,•,•,•,•,•,"1,333.80"
+CO2 Emissions from Stationary Combustion - Coal - Electricity Generation,CO2,•,•,•,•,•,•,•,•,788.2
+CO2 Emissions from Stationary Combustion - Gas - Electricity Generation,CO2,•,•,•,•,•,•,•,•,634.3
+CO2 Emissions from Stationary Combustion - Gas - Industrial,CO2,•,•,•,•,•,•,•,•,485.5
+CO2 Emissions from Stationary Combustion - Gas - Residential,CO2,•,•,•,•,•,,•,,256.4
+CO2 Emissions from Stationary Combustion - Oil - Industrial,CO2,•,•,•,•,•,•,•,•,237.8
+CO2 Emissions from Stationary Combustion - Gas - Commercial,CO2,•,•,•,•,•,•,•,,173.9
+CO2 Emissions from Mobile Combustion: Aviation,CO2,•,•,•,•,•,•,•,•,121.3
+CO2 Emissions from Non-Energy Use of Fuels,CO2,•,•,•,•,•,•,•,•,121
+CO2 Emissions from Stationary Combustion - Oil - Residential,CO2,•,•,•,•,,•,,,59.5
+CO2 Emissions from Mobile Combustion: Othera,CO2,•,•,•,•,,,,,57.1
+CO2 Emissions from Stationary Combustion - Oil - Commercial,CO2,•,•,•,•,,,,,51.6
+CO2 Emissions from Stationary Combustion - Coal - Industrial,CO2,•,•,•,•,•,•,•,•,43
+CO2 Emissions from Natural Gas Systems,CO2,•,,•,,•,,,,35.4
+CO2 Emissions from Mobile Combustion: Railways,CO2,•,,•,,,,,,31
+CO2 Emissions from Petroleum Systems,CO2,•,•,•,•,•,•,•,•,30.2
+CO2 Emissions from Mobile Combustion: Marine,CO2,•,•,•,•,,,,,23.7
+CO2 Emissions from Stationary Combustion - Oil - U.S. Territories,CO2,•,,•,,,,,,16.9
+CO2 Emissions from Stationary Combustion - Oil - Electricity Generation,CO2,•,•,•,•,•,•,,•,16.2
+CO2 Emissions from Mobile Combustion: Military,CO2,,•,,•,,,,,5.2
+CO2 Emissions from Coal Mining,CO2,,,,,,•,,,2.2
+CO2 Emissions from Stationary Combustion - Coal - Commercial,CO2,,•,,•,,•,,,1.4
+CO2 Emissions from Stationary Combustion - Coal - Residential,CO2,,,,,,•,,•,-
+CH4 Emissions from Natural Gas Systems,CH4,•,•,•,•,•,•,•,•,164.9
+Fugitive Emissions from Coal Mining,CH4,•,•,•,•,•,•,•,•,41.2
+CH4 Emissions from Petroleum Systems,CH4,•,•,•,•,•,•,•,•,40.2
+CH4 Emissions from Abandoned Oil and Gas Wells,CH4,,,,,•,,•,,6.9
+CH4 Emissions from Stationary Combustion - Residential,CH4,,,,,•,•,•,•,4.1
+N2O Emissions from Stationary Combustion - Coal - Electricity Generation,N2O,•,,•,,•,•,•,•,15.2
+N2O Emissions from Mobile Combustion: Road,N2O,•,•,•,•,,,,•,9.8
+N2O Emissions from Stationary Combustion - Gas - Electricity Generation,N2O,,,,,,•,,,4.5
+N2O Emissions from Stationary Combustion - Industrial,N2O,,,,,•,,,,2.3
+Industrial Processes and Product Use,,,,,,,,,,
+CO2 Emissions from Cement Production,CO2,•,•,•,•,,,,,40.7
+CO2 Emissions from Iron and Steel Production & Metallurgical Coke Production,CO2,•,•,•,•,•,•,•,•,37.7
+CO2 Emissions from Petrochemical Production,CO2,•,•,•,•,,,,,30
+Emissions from Substitutes for Ozone Depleting Substances: Refrigeration and Air conditioning,"HFCs, PFCs",•,•,•,•,•,•,•,•,137.7
+Emissions from Substitutes for Ozone Depleting Substances: Aerosols,"HFCs, PFCs",•,•,•,•,•,•,•,•,18.1
+Emissions from Substitutes for Ozone Depleting Substances: Foam Blowing Agents,"HFCs, PFCs",,•,,•,,,,,15.5
+SF6 and CF4 Emissions from Electrical Transmission and Distribution,"SF6, CF4",•,•,•,•,,•,,•,3.8
+HFC-23 Emissions from HCFC-22 Production,HFCs,•,•,•,•,,•,,•,2.1
+PFC Emissions from Aluminum Production,PFCs,•,•,•,•,,,,,1.7
+Agriculture,,,,,,,,,,
+CO2 Emissions from Liming,CO2,,,,,,•,,•,2.4
+CH4 Emissions from Enteric Fermentation: Cattle,CH4,•,•,•,•,•,•,•,,168.9
+CH4 Emissions from Manure Management: Cattle,CH4,•,•,•,•,•,•,,•,33.5
+CH4 Emissions from Manure Management: Other Livestock,CH4,•,,•,•,,,,,26.1
+CH4 Emissions from Rice Cultivation,CH4,•,,•,,•,,•,,15.7
+Direct N2O Emissions from Agricultural Soil Management,N2O,•,,•,,•,,•,,271.7
+Indirect N2O Emissions from Applied Nitrogen,N2O,•,,•,,•,,•,,44.6
+Waste,,,,,,,,,,
+CH4 Emissions from Commercial Landfills,CH4,•,•,•,•,•,•,•,•,94.2
+CH4 Emissions from Domestic Wastewater Treatment,CH4,,,,,•,,,,11.8
+N2O Emissions from Domestic Wastewater Treatment,N2O,•,,•,,•,,•,•,23
+"Land Use, Land-Use Change, and Forestry",,,,,,,,,,
+Net CO2 Emissions from Land Converted to Settlements,CO2,,,•,•,,,•,•,77.9
+Net CO2 Emissions from Land Converted to Cropland,CO2,,,•,,,,•,•,54.4
+Net CO2 Emissions from Grassland Remaining Grassland,CO2,,,,,,,•,•,4.5
+Net CO2 Emissions from Cropland Remaining Cropland,CO2,,,•,,,,•,,-23.3
+Net CO2 Emissions from Land Converted to Grassland,CO2,,,•,•,,,•,•,-24.1
+Net CO2 Emissions from Land Converted to Forest Land,CO2,,,•,,,,•,,-99.5
+Net CO2 Emissions from Settlements Remaining Settlements,CO2,,,•,•,,,•,•,-126.1
+Net CO2 Emissions from Forest Land Remaining Forest Land,CO2,,,•,•,,,•,•,-668.1
+CH4 Emissions from Flooded Lands Remaining Flooded Lands,CH4,,,•,,,,,,19.9
+CH4 Emissions from Forest Fires,CH4,,,,•,,,,•,13.6
+N2O Emissions from Forest Fires,N2O,,,,•,,,,•,11.7
+Subtotal of Key Categories Without LULUCFb,,,,,,,,,,"5,793.60"
+Total Gross Emissions Without LULUCF,,,,,,,,,,"5,981.40"
+Percent of Total Without LULUCF,,,,,,,,,,97%
+Subtotal of Key Categories With LULUCFc,,,,,,,,,,"5,013.70"
+Total Net Emissions With LULUCF,,,,,,,,,,"5,222.40"
+Percent of Total With LULUCF,,,,,,,,,,96%
+a Other includes emissions from pipelines.,,,,,,,,,,
+"b Subtotal includes key categories from Level Approach 1 Without LULUCF, Level Approach 2 Without LULUCF, Trend Approach 1 Without LULUCF, and Trend Approach 2 Without LULUCF.",,,,,,,,,,
+"c Subtotal includes key categories from Level Approach 1 With LULUCF, Level Approach 2 With LULUCF, Trend Approach 1 With LULUCF, and Trend Approach 2 With LULUCF. ",,,,,,,,,,
+Note: Parentheses indicate negative values (or sequestration).,,,,,,,,,,

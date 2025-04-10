@@ -1,0 +1,15 @@
+Table 6-99: Approach 2 Quantitative Uncertainty Estimates for CH4 and CO2 Emissions from Reservoirs and Associated Inundation Areas in Land Converted to Flooded Land,,,,,,
+Source,Gas,2020 Emission Estimate,Uncertainty Range Relative to Emission Estimatea,,,
+,,(MMT CO2 Eq.),(MMT CO2 Eq.),,(%),
+,,,Lower Bound,Upper Bound,Lower Bound,Upper Bound
+Reservoir,,,,,,
+Surface,CH4,0.2,0.1,0.2,-12.70%,12.50%
+Surface,CO2,0.3,0.2,0.3,-13.40%,13.50%
+Downstream,CH4,+,+,0.1,-57.10%,287.3
+Inundation Area,,,,,,
+Surface,CH4,+,+,+,-13.10%,12.90%
+Surface,CO2,+,+,+,-13.00%,14.10%
+Downstream,CH4,+,+,+,-56.90%,290.70%
+Total,,0.5,0.4,0.5,-13.10%,16.00%
++ Indicates values less than 0.05 MMT CO2 Eq.,,,,,,
+a Range of emission estimates predicted by Monte Carlo stochastic simulation for a 95 percent confidence interval.,,,,,,

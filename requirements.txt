@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+torch
+torch-geometric
+matplotlib
+seaborn
+networkx
+optuna
+tabulate
+networkx

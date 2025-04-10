@@ -1,0 +1,11 @@
+Table 4-85:  Approach 2 Quantitative Uncertainty Estimates for CO2 and PFC Emissions from Aluminum Production (MMT CO2 Eq. and Percent),,,,,,,
+,,,,,,,
+,Source,Gas,2020 Emission Estimate,Uncertainty Range Relative to Emission Estimatea,,,
+,,,(MMT CO2 Eq.),(MMT CO2 Eq.),,(%),
+,,,,Lower,Upper,Lower,Upper
+,,,,Bound,Bound,Bound,Bound
+,Aluminum Production,CO2,1.75,1.71,1.79,-2%,2%
+,Aluminum Production,CF4,1.39,1.29,1.5,-7%,8%
+,Aluminum Production,C2F6,0.29,0.25,0.32,-11%,11%
+,Aluminum Production,PFCs,1.68,1.57,1.79,-6%,7%
+,a Range of emission estimates predicted by Monte Carlo Stochastic Simulation for a 95 percent confidence interval.,,,,,,

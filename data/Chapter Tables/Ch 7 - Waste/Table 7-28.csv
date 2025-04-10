@@ -1,0 +1,12 @@
+Table 7-28:  Variables and Data Sources for Protein Consumed,,,
+,,,
+Variable,Variable Description,Units,Inventory Years: Source of Value
+Protein,,,
+ProteinSUPPLY,Annual per capita protein supplya,kg/person/year,1990-2020: Calculated
+Proteinper capita,Daily per capita protein supplya,g/person/day,1990-2020: USDA (2021b)
+1000,Conversion factor,g to kg,Standard conversion
+365.25,Conversion factor,Days in a year,Standard conversion
+FPC,Fraction of Protein Consumeda,kg protein consumed / kg protein available,1990-2010: USDA (2021b)
+,,,2011-2018: FAO (2021c) and scaling factor
+,,,"2019, 2020: Forecasted from the rest of the time series"
+a Value of this activity data varies over the Inventory time series.,,,

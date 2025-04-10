@@ -1,0 +1,23 @@
+Table 7-18: Variables and Data Sources for CH4 Emissions from Centrally Treated Systems Discharge,,,
+,,,
+Variable,Variable Description,Units,Source of Value
+"TOWEFFtreat,CENTRALIZED",Total organics in centralized treatment effluenta,Gg BOD/year,1990-2020: Calculated
+TOWCENTRALIZED,Total organics in centralized wastewater treatmenta,Gg BOD/year,1990-2020: Calculated
+% primary,Percent of primary domestic centralized treatmenta,%,"1990,1991: Set equal to 1992."
+,,,"1992, 1996, 2000, 2004, 2008, 2012: EPA (1992, 1996, 2000, 2004a, 2008, and 2012), respectively"
+% secondary,Percent of secondary domestic centralized treatmenta,%,Data for intervening years obtained by linear interpolation.
+% tertiary,Percent of tertiary domestic centralized treatmenta,%,2013-2020: Forecasted from the rest of the time series
+"TOWrem,PRIMARY",Fraction of organics removed from primary domestic centralized treatment (0.4),No units,1990-2020: IPCC (2019)
+"TOWrem,SECONDARY",Fraction of organics removed from secondary domestic centralized treatment (0.85),No units,
+"TOWrem,TERTIARY",Fraction of organics removed from tertiary domestic centralized treatment (0.90),No units,
+TOWRLE,"Total organics in effluent discharged to reservoirs, lakes, and estuariesa",Gg BOD/year,1990-2020: Calculated
+TOWOther,Total organics in effluent discharge to other waterbodiesa,Gg BOD/year,
+EFRLE,Emission factor (discharge to reservoirs/lakes/estuaries) (0.021),kg CH4/kg BOD,1990-2020: IPCC (2019)
+EFOther,Emission factor (discharge to other waterbodies) (0.114),kg CH4/kg BOD,
+PercentRLE,"% discharged to reservoirs, lakes, and estuariesa",%,1990-2010: Set equal to 2010
+,,,2010: ERG (2021a)
+,,,2011: Obtained by linear interpolation
+,,,2012: ERG (2021a)
+PercentOther,% discharged to other waterbodiesa,%,2013-2020: Set equal to 2012
+,,,
+a Value of this activity data varies over the time series.,,,

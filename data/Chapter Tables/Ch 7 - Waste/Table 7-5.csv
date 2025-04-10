@@ -1,0 +1,9 @@
+Table 7-5:  Approach 2 Quantitative Uncertainty Estimates for CH4 Emissions from Landfills (MMT CO2 Eq. and Percent),,,,,,,
+,Source,Gas,2020 Emission Estimate,Uncertainty Range Relative to Emission Estimatea,,,
+,,,(MMT CO2 Eq.),(MMT CO2 Eq.),,(%),
+,,,,Lower,Upper,Lower,Upper
+,,,,Bound,Bound,Bound,Bound
+,Total Landfills,CH4,109.3,84.7,133.3,-23%,22%
+,  MSW,CH4,94.2,73.7,123,-22%,31%
+,  Industrial,CH4,15.1,10.4,18.9,-31%,25%
+,a Range of emission estimates predicted by Monte Carlo Stochastic Simulation for a 95 percent confidence interval. Individual uncertainty factors are applied to activity data and emission factors in the Monte Carlo analysis.,,,,,,
