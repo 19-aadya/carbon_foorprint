@@ -1,0 +1,15 @@
+# Ignore Python virtual environments
+cf_env/
+env/
+venv/
+*.egg-info/
+
+# Ignore __pycache__ and other Python stuff
+__pycache__/
+*.py[cod]
+
+# VSCode files
+.vscode/
+
+# OS junk
+.DS_Store
