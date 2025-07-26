@@ -5,8 +5,14 @@ from utils.preprocessing import load_and_preprocess
 from utils.graph_utils import build_graph
 from models.tabgnn_model import TabGNN
 
+
+
 def evaluate_model():
     X, y, _ = load_and_preprocess('data/supply_chain_emission_factors.csv')
+    
+    if X.shape[0] == 0 or y.shape[0] == 0:
+        raise ValueError("🚨 Dataset is empty after preprocessing! Cannot build graph.")
+
     X = X.astype(float)
     y = y.astype(float)
 

@@ -10,6 +10,9 @@ def load_and_preprocess(path):
     df = df[['Sector', 'EmissionFactor']]
     df.dropna(inplace=True)
 
+    if df.empty:
+        raise ValueError("🚨 Preprocessed dataframe is empty! Check your CSV file or filters.")
+
     df['Sector_encoded'] = df['Sector'].astype('category').cat.codes
     X = df[['Sector_encoded']].values
     y = df['EmissionFactor'].values
